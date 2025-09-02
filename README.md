@@ -1,5 +1,5 @@
 # eder-cuabo
 
 Cyrileder
-Sheryn Cuabocd 
+Sheryn Cuabo
 
